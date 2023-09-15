@@ -1,0 +1,820 @@
+/* screen - testimonial */
+
+.testimonial {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  gap: 16px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.testimonial .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: -34px;
+  min-width: 1478px;
+}
+
+.testimonial .ellipse-11 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-bottom: 133.0px;
+  width: 23px;
+}
+
+.testimonial .overlap-group7 {
+  height: 1516px;
+  margin-left: 11px;
+  position: relative;
+  width: 1366px;
+}
+
+.testimonial .mask-group {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.testimonial .nrw-white-2 {
+  height: 882px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 292px;
+  width: 1366px;
+}
+
+.testimonial .title {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 143px;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 58.5px;
+  position: absolute;
+  top: 213px;
+  width: 677px;
+}
+
+.testimonial .ellipse-1 {
+  background-color: var(--white-2);
+  border-radius: 235px/91px;
+  height: 182px;
+  left: 83px;
+  position: absolute;
+  top: 654px;
+  width: 470px;
+}
+
+.testimonial .component-2 {
+  background-color: var(--white-2);
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #00000040;
+  height: 85px;
+  left: 118px;
+  position: absolute;
+  top: 68px;
+  width: 1127px;
+}
+
+.testimonial .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  left: 8px;
+  min-height: 107px;
+  position: absolute;
+  top: -36px;
+  width: 142px;
+}
+
+.testimonial .frame-345 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
+  width: 127px;
+}
+
+.testimonial .vector {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-left: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.testimonial .link {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.testimonial .group-82 {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-right: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.testimonial .set-recruitment-colour-2 {
+  align-self: flex-end;
+  height: 56px;
+  object-fit: cover;
+  width: 123px;
+}
+
+.testimonial .navbar-link-container {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 425px;
+  min-width: 541px;
+  position: absolute;
+  top: 31px;
+}
+
+.testimonial .navbar-link-place {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.testimonial .navbar-link-about {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 29px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.testimonial .navbar-link-clients {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.testimonial .navbar-link-candidates {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 28px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.testimonial .navbar-link-team {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.testimonial .navbar-link-testimonials {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 21px;
+  white-space: nowrap;
+}
+
+.testimonial .frame-2 {
+  align-items: center;
+  background-color: var(--primary700-main);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 982px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 18px;
+}
+
+.testimonial .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.testimonial .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 411px;
+  min-width: 732px;
+  position: absolute;
+  top: -41px;
+}
+
+.testimonial .vector-1 {
+  height: 17px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.testimonial .cardiff-02920-670-832 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+.testimonial .vector-2 {
+  height: 17px;
+  margin-left: 78px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.testimonial .llantrisant-01443-230-222 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.testimonial .vector-3 {
+  height: 17px;
+  margin-left: 48px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.testimonial .swansea-01792-342-948 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 181px;
+  white-space: nowrap;
+}
+
+.testimonial .group-132 {
+  align-items: flex-end;
+  display: flex;
+  height: 920px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 596px;
+}
+
+.testimonial .overlap-group6 {
+  height: 920px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1366px;
+}
+
+.testimonial .rectangle-84 {
+  background-color: var(--white-2);
+  box-shadow: 0px 0px 4px 5px #0000001a;
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.testimonial .overlap-group {
+  height: 329px;
+  left: 110px;
+  position: absolute;
+  top: 30px;
+  width: 1147px;
+}
+
+.testimonial .wood-floor-warehouse-feefo-reviews-1 {
+  height: 329px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1132px;
+}
+
+.testimonial .rectangle-83 {
+  background-color: var(--white-2);
+  height: 47px;
+  left: 912px;
+  position: absolute;
+  top: 282px;
+  width: 235px;
+}
+
+.testimonial .group-126 {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  min-height: 565px;
+  position: absolute;
+  top: 355px;
+  width: 1366px;
+}
+
+.testimonial .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-71.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1366px;
+}
+
+.testimonial .overlap-group2 {
+  height: 505px;
+  position: relative;
+  width: 504px;
+}
+
+.testimonial .x11-9 {
+  height: 505px;
+  left: 0;
+  width: 252px;
+}
+
+.testimonial .llantrisant-branch {
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 195px;
+}
+
+.testimonial .unit-1-2-magden-pa {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  left: 309px;
+  line-height: 24px;
+  position: absolute;
+  top: 217px;
+  width: 179px;
+}
+
+.testimonial .enquiriesnetworkrecruitmentwalescouk {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 32px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-decoration: underline;
+  top: 397px;
+  white-space: nowrap;
+}
+
+.testimonial .email {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 24px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 376px;
+  white-space: nowrap;
+}
+
+.testimonial .about-us-team-testim {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  left: 126px;
+  line-height: 24px;
+  position: absolute;
+  top: 218px;
+  width: 211px;
+}
+
+.testimonial .set {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 207px;
+}
+
+.testimonial .flex-col-1 {
+  margin-left: 62px;
+  margin-top: 107.0px;
+  min-height: 240px;
+  width: 261px;
+}
+
+.testimonial .swansea-branch {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 31px;
+  width: 207px;
+}
+
+.testimonial .canolfan-gorseinon-c {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  line-height: 24px;
+  width: 211px;
+}
+
+.testimonial .overlap-group3 {
+  height: 52px;
+  margin-top: 37px;
+  position: relative;
+  width: 261px;
+}
+
+.testimonial .partners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.testimonial .mps-healthcare {
+  color: var(--white-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.testimonial .nrw-recruitment {
+  color: var(--white-2);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 24px;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.testimonial .overlap-group5 {
+  height: 151px;
+  margin-left: 13px;
+  margin-top: 18.0px;
+  position: relative;
+  width: 211px;
+}
+
+.testimonial .cardiff-branch {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.testimonial .x3rd-floor-castlebrid {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 31px;
+  width: 211px;
+}
+
+.testimonial .overlap-group4 {
+  align-self: flex-start;
+  height: 504px;
+  margin-left: 3px;
+  position: relative;
+  width: 312px;
+}
+
+.testimonial .x11-10 {
+  height: 504px;
+  left: 38px;
+  width: 274px;
+}
+
+.testimonial .integration-logos_badges-1 {
+  height: 45px;
+  left: 48px;
+  position: absolute;
+  top: 187px;
+  width: 183px;
+}
+
+.testimonial .cant-find-what-your-looking-for {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 252px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.testimonial .overlap-group-1 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 319px;
+  width: 230px;
+}
+
+.testimonial .rectangle-20 {
+  height: 32px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.testimonial .search {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 24px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.testimonial .frame-345-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 62px;
+  position: absolute;
+  top: 377px;
+}
+
+.testimonial .vector-4 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 29.76px;
+}
+
+.testimonial .group-80 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 24.18px;
+}
+
+.testimonial .g5891 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 25.29px;
+}
+
+.testimonial .group-82-1 {
+  cursor: pointer;
+  height: 27.84px;
+  margin-right: -0.01px;
+  position: relative;
+  width: 27.84px;
+}
+
+.testimonial .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 74px;
+  height: 25px;
+  margin-right: 24.88px;
+  min-width: 1147px;
+}
+
+.testimonial .frame-348 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 0.53px;
+  position: relative;
+}
+
+.testimonial .frame-348-item {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.testimonial .copyright-network-re {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 25px;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.testimonial .untitled-design-20-3 {
+  height: 61px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 171px;
+}
+
+.testimonial .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  display: flex;
+  margin-bottom: 133.0px;
+  margin-left: 55px;
+  min-width: 23px;
+}
+
+.testimonial .ellipse-28 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.testimonial .flex-col-2 {
+  gap: 361px;
+  margin-top: 705px;
+  min-height: 396px;
+  width: 696px;
+}
+
+.testimonial .caretakers-container {
+  position: relative;
+}
+
+.testimonial .caretakers {
+  color: var(--black-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.testimonial .flex-row-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 25px;
+  min-width: 688px;
+}
+
+.testimonial .ellipse-30 {
+  align-self: flex-end;
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.testimonial .overlap-group9 {
+  height: 23px;
+  margin-left: 5px;
+  position: relative;
+  width: 207px;
+}
+
+.testimonial .learning-support-assistant {
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.testimonial .ellipse-31 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.testimonial .additional-learning {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-bottom: 7.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 295px;
+}
+
+.testimonial .ellipse-32 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-left: 21px;
+  width: 23px;
+}
+
+.testimonial .cover-supervisors {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  margin-bottom: 3.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.testimonial .caretakers-1 {
+  height: 10px;
+  width: 205px;
+}
+
+.testimonial .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.testimonial .x11 {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}

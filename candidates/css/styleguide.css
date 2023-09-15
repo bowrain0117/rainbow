@@ -1,0 +1,84 @@
+:root { 
+  --black: #010101;
+  --black-2: #000000;
+  --neutral900: #090909;
+  --primary700-main: #522d6e;
+  --white: #fdfdfd;
+  --white-2: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 18px;
+  --font-size-xxxl: 28px;
+  --font-size-xxxxl: 45px;
+ 
+  --font-family-days_one: "Days One", Helvetica;
+  --font-family-helvetica_neue-bold: "Helvetica Neue-Bold", Helvetica;
+  --font-family-helvetica_neue-medium: "Helvetica Neue-Medium", Helvetica;
+  --font-family-helvetica_neue-regular: "Helvetica Neue-Regular", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.paragraphdesktop {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.helveticaneue-regular-normal-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-bold-white-16px {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.daysone-normal-white-18px {
+  color: var(--white-2);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-medium-honey-flower-12px {
+  color: var(--primary700-main);
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-regular-normal-white-16px {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-regular-normal-white-12px {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

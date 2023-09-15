@@ -1,0 +1,837 @@
+/* screen - privacy-policy */
+
+.privacy-policy {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  gap: 16px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.privacy-policy .flex-row {
+  margin-left: -34px;
+  min-width: 1478px;
+}
+
+.privacy-policy .ellipse-11 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-top: 680px;
+  width: 23px;
+}
+
+.privacy-policy .overlap-group9 {
+  height: 6268px;
+  margin-left: 11px;
+  position: relative;
+  width: 1366px;
+}
+
+.privacy-policy .mask-group {
+  height: 2228px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.privacy-policy .nrw-white-3 {
+  top: 332px;
+}
+
+.privacy-policy .nrw-white-2 {
+  top: 292px;
+}
+
+.privacy-policy .title {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 143px;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 58.5px;
+  position: absolute;
+  top: 213px;
+  width: 677px;
+}
+
+.privacy-policy .ellipse-1 {
+  background-color: var(--white-2);
+  border-radius: 235px/91px;
+  height: 182px;
+  left: 83px;
+  position: absolute;
+  top: 654px;
+  width: 470px;
+}
+
+.privacy-policy .component-2 {
+  background-color: var(--white-2);
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #00000040;
+  height: 85px;
+  left: 118px;
+  position: absolute;
+  top: 68px;
+  width: 1127px;
+}
+
+.privacy-policy .flex-col {
+  flex-direction: column;
+  gap: 35px;
+  left: 8px;
+  min-height: 107px;
+  position: absolute;
+  top: -36px;
+  width: 142px;
+}
+
+.privacy-policy .frame-345 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
+  width: 127px;
+}
+
+.privacy-policy .vector {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-left: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.privacy-policy .link {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.privacy-policy .group-82 {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-right: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.privacy-policy .set-recruitment-colour-2 {
+  align-self: flex-end;
+  height: 56px;
+  object-fit: cover;
+  width: 123px;
+}
+
+.privacy-policy .navbar-link-container {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 425px;
+  min-width: 541px;
+  position: absolute;
+  top: 31px;
+}
+
+.privacy-policy .navbar-link-place {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.privacy-policy .navbar-link-about {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 29px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.privacy-policy .navbar-link-clients {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.privacy-policy .navbar-link-candidates {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 28px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.privacy-policy .navbar-link-team {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.privacy-policy .navbar-link-testimonials {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 21px;
+  white-space: nowrap;
+}
+
+.privacy-policy .frame-2 {
+  align-items: center;
+  background-color: var(--primary700-main);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 982px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 18px;
+}
+
+.privacy-policy .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.privacy-policy .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 411px;
+  min-width: 732px;
+  position: absolute;
+  top: -41px;
+}
+
+.privacy-policy .vector-1 {
+  height: 17px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.privacy-policy .cardiff-02920-670-832 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+.privacy-policy .vector-2 {
+  height: 17px;
+  margin-left: 78px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.privacy-policy .llantrisant-01443-230-222 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.privacy-policy .vector-3 {
+  height: 17px;
+  margin-left: 48px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.privacy-policy .swansea-01792-342-948 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 181px;
+  white-space: nowrap;
+}
+
+.privacy-policy .group-132 {
+  align-items: flex-end;
+  display: flex;
+  height: 920px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 5348px;
+}
+
+.privacy-policy .overlap-group6 {
+  height: 920px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1366px;
+}
+
+.privacy-policy .rectangle-84 {
+  background-color: var(--white-2);
+  box-shadow: 0px 0px 4px 5px #0000001a;
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.privacy-policy .overlap-group {
+  height: 329px;
+  left: 110px;
+  position: absolute;
+  top: 30px;
+  width: 1147px;
+}
+
+.privacy-policy .wood-floor-warehouse-feefo-reviews-1 {
+  height: 329px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1132px;
+}
+
+.privacy-policy .rectangle-83 {
+  background-color: var(--white-2);
+  height: 47px;
+  left: 912px;
+  position: absolute;
+  top: 282px;
+  width: 235px;
+}
+
+.privacy-policy .group-126 {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  min-height: 565px;
+  position: absolute;
+  top: 355px;
+  width: 1366px;
+}
+
+.privacy-policy .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-71.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1366px;
+}
+
+.privacy-policy .overlap-group3 {
+  height: 505px;
+  position: relative;
+  width: 504px;
+}
+
+.privacy-policy .x11-9 {
+  height: 505px;
+  left: 0;
+  width: 252px;
+}
+
+.privacy-policy .llantrisant-branch {
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 195px;
+}
+
+.privacy-policy .unit-1-2-magden-pa {
+  height: 120px;
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 217px;
+  width: 179px;
+}
+
+.privacy-policy .enquiriesnetworkrecruitmentwalescouk {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 32px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-decoration: underline;
+  top: 397px;
+  white-space: nowrap;
+}
+
+.privacy-policy .email {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 24px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 376px;
+  white-space: nowrap;
+}
+
+.privacy-policy .about-us-team-testim {
+  height: 120px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 218px;
+  width: 211px;
+}
+
+.privacy-policy .set {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 207px;
+}
+
+.privacy-policy .flex-col-1 {
+  margin-left: 62px;
+  margin-top: 107.0px;
+  min-height: 240px;
+  width: 261px;
+}
+
+.privacy-policy .swansea-branch {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 31px;
+  width: 207px;
+}
+
+.privacy-policy .canolfan-gorseinon-c {
+  height: 120px;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 211px;
+}
+
+.privacy-policy .overlap-group5 {
+  height: 52px;
+  margin-top: 37px;
+  position: relative;
+  width: 261px;
+}
+
+.privacy-policy .partners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.privacy-policy .mps-healthcare {
+  color: var(--white-2);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.privacy-policy .nrw-recruitment {
+  color: var(--white-2);
+  cursor: pointer;
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 24px;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.privacy-policy .overlap-group4 {
+  height: 151px;
+  margin-left: 13px;
+  margin-top: 18.0px;
+  position: relative;
+  width: 211px;
+}
+
+.privacy-policy .cardiff-branch {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.privacy-policy .x3rd-floor-castlebrid {
+  height: 120px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 31px;
+  width: 211px;
+}
+
+.privacy-policy .overlap-group2 {
+  align-self: flex-start;
+  height: 504px;
+  margin-left: 3px;
+  position: relative;
+  width: 312px;
+}
+
+.privacy-policy .x11-10 {
+  height: 504px;
+  left: 38px;
+  width: 274px;
+}
+
+.privacy-policy .integration-logos_badges-1 {
+  height: 45px;
+  left: 48px;
+  position: absolute;
+  top: 187px;
+  width: 183px;
+}
+
+.privacy-policy .cant-find-what-your-looking-for {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 252px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.privacy-policy .overlap-group-1 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 319px;
+  width: 230px;
+}
+
+.privacy-policy .rectangle-20 {
+  height: 32px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.privacy-policy .search {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 24px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.privacy-policy .frame-345-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 62px;
+  position: absolute;
+  top: 377px;
+}
+
+.privacy-policy .vector-4 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 29.76px;
+}
+
+.privacy-policy .group-80 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 24.18px;
+}
+
+.privacy-policy .g5891 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 25.29px;
+}
+
+.privacy-policy .group-82-1 {
+  cursor: pointer;
+  height: 27.84px;
+  margin-right: -0.01px;
+  position: relative;
+  width: 27.84px;
+}
+
+.privacy-policy .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 74px;
+  height: 25px;
+  margin-right: 24.88px;
+  min-width: 1147px;
+}
+
+.privacy-policy .frame-348 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 0.53px;
+  position: relative;
+}
+
+.privacy-policy .frame-348-item {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.privacy-policy .copyright-network-re {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 25px;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.privacy-policy .untitled-design-20-3 {
+  height: 61px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 171px;
+}
+
+.privacy-policy .if-you-are-looking-t {
+  color: var(--black-2);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 4643px;
+  left: 131px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  top: 718px;
+  width: 1104px;
+}
+
+.privacy-policy .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  display: flex;
+  margin-left: 55px;
+  margin-top: 680px;
+  min-width: 23px;
+}
+
+.privacy-policy .ellipse-28 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.privacy-policy .flex-col-2 {
+  gap: 361px;
+  margin-top: 705px;
+  min-height: 396px;
+  width: 696px;
+}
+
+.privacy-policy .caretakers-container {
+  height: 10px;
+  position: relative;
+  width: 205px;
+}
+
+.privacy-policy .caretakers {
+  color: var(--black-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.privacy-policy .flex-row-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 25px;
+  min-width: 688px;
+}
+
+.privacy-policy .ellipse-30 {
+  align-self: flex-end;
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.privacy-policy .overlap-group7 {
+  height: 23px;
+  margin-left: 5px;
+  position: relative;
+  width: 207px;
+}
+
+.privacy-policy .learning-support-assistant {
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.privacy-policy .ellipse-31 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.privacy-policy .additional-learning {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-bottom: 7.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 295px;
+}
+
+.privacy-policy .ellipse-32 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-left: 21px;
+  width: 23px;
+}
+
+.privacy-policy .cover-supervisors {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  margin-bottom: 3.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.privacy-policy .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.privacy-policy .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.privacy-policy .nrw-white {
+  height: 882px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1366px;
+}
+
+.privacy-policy .x11 {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}

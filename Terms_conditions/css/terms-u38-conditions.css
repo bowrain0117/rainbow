@@ -1,0 +1,843 @@
+/* screen - terms-u38-conditions */
+
+.terms-u38-conditions {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  gap: 16px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.terms-u38-conditions .flex-row {
+  height: 6268px;
+  margin-left: -34px;
+  min-width: 1478px;
+}
+
+.terms-u38-conditions .ellipse-11 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-top: 680px;
+  width: 23px;
+}
+
+.terms-u38-conditions .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 183px;
+  margin-left: 11px;
+  min-height: 6268px;
+  width: 1366px;
+}
+
+.terms-u38-conditions .overlap-group7 {
+  height: 5165px;
+  position: relative;
+  width: 1366px;
+}
+
+.terms-u38-conditions .mask-group {
+  height: 2228px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.terms-u38-conditions .nrw-white-3 {
+  top: 332px;
+}
+
+.terms-u38-conditions .nrw-white-2 {
+  top: 292px;
+}
+
+.terms-u38-conditions .title {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 143px;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 58.5px;
+  position: absolute;
+  top: 213px;
+  width: 677px;
+}
+
+.terms-u38-conditions .ellipse-1 {
+  background-color: var(--white-2);
+  border-radius: 235px/91px;
+  height: 182px;
+  left: 83px;
+  position: absolute;
+  top: 654px;
+  width: 470px;
+}
+
+.terms-u38-conditions .component-2 {
+  background-color: var(--white-2);
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #00000040;
+  height: 85px;
+  left: 118px;
+  position: absolute;
+  top: 68px;
+  width: 1127px;
+}
+
+.terms-u38-conditions .flex-col {
+  flex-direction: column;
+  gap: 35px;
+  left: 8px;
+  min-height: 107px;
+  position: absolute;
+  top: -36px;
+  width: 142px;
+}
+
+.terms-u38-conditions .frame-345 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
+  width: 127px;
+}
+
+.terms-u38-conditions .vector {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-left: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.terms-u38-conditions .link {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.terms-u38-conditions .group-82 {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-right: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.terms-u38-conditions .set-recruitment-colour-2 {
+  align-self: flex-end;
+  height: 56px;
+  object-fit: cover;
+  width: 123px;
+}
+
+.terms-u38-conditions .navbar-link-container {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 425px;
+  min-width: 541px;
+  position: absolute;
+  top: 31px;
+}
+
+.terms-u38-conditions .navbar-link-place {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.terms-u38-conditions .navbar-link-about {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 29px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.terms-u38-conditions .navbar-link-clients {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.terms-u38-conditions .navbar-link-candidates {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 28px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.terms-u38-conditions .navbar-link-team {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.terms-u38-conditions .navbar-link-testimonials {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 21px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .frame-2 {
+  align-items: center;
+  background-color: var(--primary700-main);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 982px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 18px;
+}
+
+.terms-u38-conditions .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.terms-u38-conditions .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 411px;
+  min-width: 732px;
+  position: absolute;
+  top: -41px;
+}
+
+.terms-u38-conditions .vector-1 {
+  height: 17px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.terms-u38-conditions .cardiff-02920-670-832 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .vector-2 {
+  height: 17px;
+  margin-left: 78px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.terms-u38-conditions .llantrisant-01443-230-222 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .vector-3 {
+  height: 17px;
+  margin-left: 48px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.terms-u38-conditions .swansea-01792-342-948 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 181px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .terms-of-use-please {
+  color: var(--black-2);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 4447px;
+  left: 131px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  top: 718px;
+  width: 1104px;
+}
+
+.terms-u38-conditions .group-132 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 1366px;
+}
+
+.terms-u38-conditions .overlap-group6 {
+  height: 920px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1366px;
+}
+
+.terms-u38-conditions .rectangle-84 {
+  background-color: var(--white-2);
+  box-shadow: 0px 0px 4px 5px #0000001a;
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.terms-u38-conditions .overlap-group {
+  height: 329px;
+  left: 110px;
+  position: absolute;
+  top: 30px;
+  width: 1147px;
+}
+
+.terms-u38-conditions .wood-floor-warehouse-feefo-reviews-1 {
+  height: 329px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1132px;
+}
+
+.terms-u38-conditions .rectangle-83 {
+  background-color: var(--white-2);
+  height: 47px;
+  left: 912px;
+  position: absolute;
+  top: 282px;
+  width: 235px;
+}
+
+.terms-u38-conditions .group-126 {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  min-height: 565px;
+  position: absolute;
+  top: 355px;
+  width: 1366px;
+}
+
+.terms-u38-conditions .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-71.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1366px;
+}
+
+.terms-u38-conditions .overlap-group3 {
+  height: 505px;
+  position: relative;
+  width: 504px;
+}
+
+.terms-u38-conditions .x11-9 {
+  height: 505px;
+  left: 0;
+  width: 252px;
+}
+
+.terms-u38-conditions .llantrisant-branch {
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 195px;
+}
+
+.terms-u38-conditions .unit-1-2-magden-pa {
+  height: 120px;
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 217px;
+  width: 179px;
+}
+
+.terms-u38-conditions .enquiriesnetworkrecruitmentwalescouk {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 32px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-decoration: underline;
+  top: 397px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .email {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 24px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 376px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .about-us-team-testim {
+  height: 120px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 218px;
+  width: 211px;
+}
+
+.terms-u38-conditions .set {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 207px;
+}
+
+.terms-u38-conditions .flex-col-1 {
+  margin-left: 62px;
+  margin-top: 107.0px;
+  min-height: 240px;
+  width: 261px;
+}
+
+.terms-u38-conditions .swansea-branch {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 31px;
+  width: 207px;
+}
+
+.terms-u38-conditions .canolfan-gorseinon-c {
+  height: 120px;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 211px;
+}
+
+.terms-u38-conditions .overlap-group4 {
+  height: 52px;
+  margin-top: 37px;
+  position: relative;
+  width: 261px;
+}
+
+.terms-u38-conditions .partners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.terms-u38-conditions .mps-healthcare {
+  color: var(--white-2);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .nrw-recruitment {
+  color: var(--white-2);
+  cursor: pointer;
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 24px;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .overlap-group5 {
+  height: 151px;
+  margin-left: 13px;
+  margin-top: 18.0px;
+  position: relative;
+  width: 211px;
+}
+
+.terms-u38-conditions .cardiff-branch {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.terms-u38-conditions .x3rd-floor-castlebrid {
+  height: 120px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 31px;
+  width: 211px;
+}
+
+.terms-u38-conditions .overlap-group2 {
+  align-self: flex-start;
+  height: 504px;
+  margin-left: 3px;
+  position: relative;
+  width: 312px;
+}
+
+.terms-u38-conditions .x11-10 {
+  height: 504px;
+  left: 38px;
+  width: 274px;
+}
+
+.terms-u38-conditions .integration-logos_badges-1 {
+  height: 45px;
+  left: 48px;
+  position: absolute;
+  top: 187px;
+  width: 183px;
+}
+
+.terms-u38-conditions .cant-find-what-your-looking-for {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 252px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.terms-u38-conditions .overlap-group-1 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 319px;
+  width: 230px;
+}
+
+.terms-u38-conditions .rectangle-20 {
+  height: 32px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.terms-u38-conditions .search {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 24px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.terms-u38-conditions .frame-345-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 62px;
+  position: absolute;
+  top: 377px;
+}
+
+.terms-u38-conditions .vector-4 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 29.76px;
+}
+
+.terms-u38-conditions .group-80 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 24.18px;
+}
+
+.terms-u38-conditions .g5891 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 25.29px;
+}
+
+.terms-u38-conditions .group-82-1 {
+  cursor: pointer;
+  height: 27.84px;
+  margin-right: -0.01px;
+  position: relative;
+  width: 27.84px;
+}
+
+.terms-u38-conditions .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 74px;
+  height: 25px;
+  margin-right: 24.88px;
+  min-width: 1147px;
+}
+
+.terms-u38-conditions .frame-348 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 0.53px;
+  position: relative;
+}
+
+.terms-u38-conditions .frame-348-item {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.terms-u38-conditions .copyright-network-re {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 25px;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.terms-u38-conditions .untitled-design-20-3 {
+  height: 61px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 171px;
+}
+
+.terms-u38-conditions .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  display: flex;
+  margin-left: 55px;
+  margin-top: 680px;
+  min-width: 23px;
+}
+
+.terms-u38-conditions .ellipse-28 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.terms-u38-conditions .flex-col-2 {
+  gap: 361px;
+  margin-top: 705px;
+  min-height: 396px;
+  width: 696px;
+}
+
+.terms-u38-conditions .caretakers-container {
+  height: 10px;
+  position: relative;
+  width: 205px;
+}
+
+.terms-u38-conditions .caretakers {
+  color: var(--black-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.terms-u38-conditions .flex-row-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 25px;
+  min-width: 688px;
+}
+
+.terms-u38-conditions .ellipse-30 {
+  align-self: flex-end;
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.terms-u38-conditions .overlap-group8 {
+  height: 23px;
+  margin-left: 5px;
+  position: relative;
+  width: 207px;
+}
+
+.terms-u38-conditions .learning-support-assistant {
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.terms-u38-conditions .ellipse-31 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.terms-u38-conditions .additional-learning {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-bottom: 7.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 295px;
+}
+
+.terms-u38-conditions .ellipse-32 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-left: 21px;
+  width: 23px;
+}
+
+.terms-u38-conditions .cover-supervisors {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  margin-bottom: 3.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.terms-u38-conditions .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.terms-u38-conditions .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.terms-u38-conditions .nrw-white {
+  height: 882px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1366px;
+}
+
+.terms-u38-conditions .x11 {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}

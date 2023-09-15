@@ -1,0 +1,1927 @@
+/* screen - team */
+
+.team {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  gap: 16px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.team .flex-row {
+  height: 4505px;
+  margin-left: -34px;
+  min-width: 1478px;
+}
+
+.team .ellipse-11 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-top: 680px;
+  width: 23px;
+}
+
+.team .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 11px;
+  min-height: 4505px;
+  width: 1366px;
+}
+
+.team .overlap-group17 {
+  height: 836px;
+  position: relative;
+  width: 1366px;
+}
+
+.team .mask-group {
+  height: 680px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.team .title {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 400;
+  height: 143px;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: 58.5px;
+  position: absolute;
+  top: 217px;
+  width: 677px;
+}
+
+.team .ellipse-1 {
+  background-color: var(--white-2);
+  border-radius: 235px/91px;
+  height: 182px;
+  left: 83px;
+  position: absolute;
+  top: 654px;
+  width: 470px;
+}
+
+.team .component-2 {
+  background-color: var(--white-2);
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #00000040;
+  height: 85px;
+  left: 118px;
+  position: absolute;
+  top: 68px;
+  width: 1127px;
+}
+
+.team .flex-col {
+  flex-direction: column;
+  gap: 35px;
+  left: 8px;
+  min-height: 107px;
+  position: absolute;
+  top: -36px;
+  width: 142px;
+}
+
+.team .frame-345 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
+  width: 127px;
+}
+
+.team .vector-2 {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-left: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.team .link {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.team .group-82 {
+  cursor: pointer;
+  height: 20px;
+  margin-bottom: -2.00px;
+  margin-right: -17.00px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 20px;
+}
+
+.team .set-recruitment-colour-2 {
+  align-self: flex-end;
+  height: 56px;
+  object-fit: cover;
+  width: 123px;
+}
+
+.team .navbar-link-container {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 425px;
+  min-width: 541px;
+  position: absolute;
+  top: 31px;
+}
+
+.team .navbar-link-place {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.team .navbar-link-about {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 29px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.team .navbar-link-clients {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.team .navbar-link-candidates {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 28px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.team .navbar-link-team {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 30px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.team .navbar-link-testimonials {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 21px;
+  white-space: nowrap;
+}
+
+.team .frame-2 {
+  align-items: center;
+  background-color: var(--primary700-main);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 982px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 18px;
+}
+
+.team .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.team .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 411px;
+  min-width: 732px;
+  position: absolute;
+  top: -41px;
+}
+
+.team .vector-3 {
+  height: 17px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.team .cardiff-02920-670-832 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+.team .vector-4 {
+  height: 17px;
+  margin-left: 78px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.team .llantrisant-01443-230-222 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.team .vector-5 {
+  height: 17px;
+  margin-left: 48px;
+  margin-top: 2.42px;
+  width: 14px;
+}
+
+.team .swansea-01792-342-948 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 9px;
+  min-width: 181px;
+  white-space: nowrap;
+}
+
+.team .dcc-english-1 {
+  height: 53px;
+  left: 881px;
+  object-fit: cover;
+  position: absolute;
+  top: 621px;
+  width: 111px;
+}
+
+.team .rectangle-35 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 356px;
+  left: 122px;
+  position: absolute;
+  top: 469px;
+  width: 1119px;
+}
+
+.team .rectangle-54 {
+  height: 356px;
+  left: 669px;
+  object-fit: cover;
+  position: absolute;
+  top: 469px;
+  width: 574px;
+}
+
+.team .set-recruitment-was {
+  height: 173px;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 595px;
+  width: 436px;
+}
+
+.team .our-ethos {
+  color: var(--neutral900);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  height: 27px;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 542px;
+  white-space: nowrap;
+}
+
+.team .overlap-group21 {
+  height: 3669px;
+  position: relative;
+  width: 1366px;
+}
+
+.team .overlap-group16 {
+  height: 3669px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.team .x11-16 {
+  height: 483px;
+  left: 1095px;
+  top: 635px;
+  width: 271px;
+}
+
+.team .x11-7 {
+  height: 483px;
+  left: 0;
+  top: 631px;
+  width: 267px;
+}
+
+.team .x11-8 {
+  height: 483px;
+  left: 0;
+  top: 1111px;
+  width: 273px;
+}
+
+.team .x11-9 {
+  height: 483px;
+  left: 0;
+  top: 1592px;
+  width: 267px;
+}
+
+.team .x11-10 {
+  height: 483px;
+  left: 0;
+  top: 2073px;
+  width: 262px;
+}
+
+.team .x11-11 {
+  height: 491px;
+  left: 0;
+  top: 2553px;
+  width: 258px;
+}
+
+.team .x11-13 {
+  height: 483px;
+  left: 1098px;
+  top: 2078px;
+  width: 268px;
+}
+
+.team .x11-14 {
+  height: 483px;
+  left: 1103px;
+  top: 1597px;
+  width: 263px;
+}
+
+.team .x11-15 {
+  height: 483px;
+  left: 1098px;
+  top: 1117px;
+  width: 268px;
+}
+
+.team .x11-18 {
+  height: 483px;
+  left: 1103px;
+  top: 2558px;
+  width: 263px;
+}
+
+.team .line-1 {
+  height: 178px;
+  left: 671px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.team .x11-20 {
+  height: 483px;
+  left: 1100px;
+  top: 154px;
+  width: 266px;
+}
+
+.team .x11-19 {
+  height: 483px;
+  left: 0;
+  top: 149px;
+  width: 262px;
+}
+
+.team .group-140 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 80px;
+  min-height: 2498px;
+  position: absolute;
+  top: 167px;
+  width: 1220px;
+}
+
+.team .overlap-group7 {
+  height: 714px;
+  margin-right: 40.0px;
+  position: relative;
+  width: 836px;
+}
+
+.team .vector-5-1 {
+  height: 103px;
+  left: 416px;
+  position: absolute;
+  top: 338px;
+  width: 3px;
+}
+
+.team .vector-3-1 {
+  height: 48px;
+  left: 132px;
+  position: absolute;
+  top: 416px;
+  width: 573px;
+}
+
+.team .overlap-group {
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 459px;
+  width: 265px;
+}
+
+.team .rectangle-4 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 79px;
+  width: 265px;
+}
+
+.team .geraint-field {
+  height: 27px;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.team .surname {
+  left: 9px;
+}
+
+.team .geraint-field-head-o {
+  height: 158px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.team .overlap-group1 {
+  height: 255px;
+  left: 284px;
+  position: absolute;
+  top: 459px;
+  width: 265px;
+}
+
+.team .name {
+  height: 27px;
+  left: 55px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.team .surname-1 {
+  left: 93px;
+}
+
+.team .howard-burge-head-of {
+  height: 158px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.team .overlap-group2 {
+  height: 255px;
+  left: 571px;
+  position: absolute;
+  top: 459px;
+  width: 265px;
+}
+
+.team .name-1 {
+  height: 27px;
+  left: 72px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.team .surname-2 {
+  left: 27px;
+}
+
+.team .vicky-rees-head-of-c {
+  height: 158px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.team .overlap-group3 {
+  height: 346px;
+  left: 238px;
+  position: absolute;
+  top: 0;
+  width: 357px;
+}
+
+.team .rectangle-67 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 106px;
+  width: 357px;
+}
+
+.team .alyx-peters {
+  color: var(--black-2);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  height: 35px;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 251px;
+  width: 255px;
+}
+
+.team .ceo {
+  color: var(--primary700-main);
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  height: 36px;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 289px;
+  width: 53px;
+}
+
+.team .alyx-peters-ceo {
+  height: 212px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.team .overlap-group8 {
+  height: 297px;
+  margin-right: 38.0px;
+  margin-top: 58px;
+  position: relative;
+  width: 838px;
+}
+
+.team .vector-4-1 {
+  height: 103px;
+  left: 416px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.team .vector-2-1 {
+  height: 48px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.team .rectangle-50 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 573px;
+  position: absolute;
+  top: 120px;
+  width: 265px;
+}
+
+.team .name-2 {
+  height: 27px;
+  left: 619px;
+  position: absolute;
+  top: 215px;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.team .sean-cheung-regional-coordinator-1 {
+  height: 158px;
+  left: 627px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 158px;
+}
+
+.team .regional-coordinator {
+  height: 27px;
+  left: 646px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.team .rectangle-45 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 286px;
+  position: absolute;
+  top: 121px;
+  width: 265px;
+}
+
+.team .gareth-peters {
+  height: 27px;
+  left: 341px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 218px;
+  white-space: nowrap;
+}
+
+.team .general-manager {
+  height: 27px;
+  left: 370px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.team .gareth-peters-manager-2 {
+  height: 158px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 158px;
+}
+
+.team .rectangle-47 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 265px;
+}
+
+.team .name-3 {
+  height: 27px;
+  left: 38px;
+  position: absolute;
+  top: 215px;
+  white-space: nowrap;
+  width: 188px;
+}
+
+.team .declan-palmer-regional-coordinator-1 {
+  height: 158px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 158px;
+}
+
+.team .regional-coordinator-1 {
+  left: 73px;
+  top: 248px;
+}
+
+.team .overlap-group-container-1 {
+  margin-right: 39.0px;
+  margin-top: 54px;
+  width: 833px;
+}
+
+.team .overlap-group9 {
+  height: 302px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.team .vector-6 {
+  height: 103px;
+  left: 284px;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.team .vector-1-1 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.team .rectangle-48 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 154px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .name-4 {
+  height: 18px;
+  left: 204px;
+  position: absolute;
+  top: 234px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.team .regional-coordinator-2 {
+  left: 227px;
+  top: 256px;
+}
+
+.team .sharon-jones-1 {
+  height: 158px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 158px;
+}
+
+.team .overlap-group10 {
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 265px;
+}
+
+.team .rectangle-51 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 78px;
+  width: 265px;
+}
+
+.team .zanny-wright {
+  height: 27px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 173px;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.team .zanny-wright-regional-coordinator-1 {
+  height: 158px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 157px;
+}
+
+.team .regional-coordinator-3 {
+  left: 73px;
+  top: 206px;
+}
+
+.team .overlap-group4 {
+  height: 255px;
+  left: 568px;
+  position: absolute;
+  top: 48px;
+  width: 265px;
+}
+
+.team .name-5 {
+  height: 18px;
+  left: 57px;
+  position: absolute;
+  top: 187px;
+  white-space: nowrap;
+  width: 151px;
+}
+
+.team .regional-coordinator-4 {
+  left: 73px;
+  top: 209px;
+}
+
+.team .carl-greatrex-region {
+  height: 158px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.team .overlap-group5 {
+  align-self: flex-start;
+  height: 302px;
+  margin-left: 1px;
+  margin-top: 58px;
+  position: relative;
+  width: 1158px;
+}
+
+.team .vector-9 {
+  height: 64px;
+  left: 456px;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.team .vector-1 {
+  height: 64px;
+  left: 740px;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.team .vector {
+  height: 90px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 858px;
+}
+
+.team .rectangle-76 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 609px;
+  position: absolute;
+  top: 126px;
+  width: 264px;
+}
+
+.team .name-6 {
+  height: 36px;
+  left: 657px;
+  position: absolute;
+  top: 224px;
+  width: 168px;
+}
+
+.team .rectangle-56 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 893px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .name-7 {
+  height: 28px;
+  left: 932px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.team .laura-trewartha-compliance-coordinator-1 {
+  height: 158px;
+  left: 946px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 158px;
+}
+
+.team .compliance-coordinator {
+  left: 957px;
+  top: 256px;
+}
+
+.team .rectangle {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 40px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .rectangle-77 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 326px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .cerys-jones {
+  height: 55px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 346px;
+}
+
+.team .name-8 {
+  height: 55px;
+  left: 286px;
+  position: absolute;
+  top: 214px;
+  width: 346px;
+}
+
+.team .cerys-jones-regional-coordinator-1 {
+  height: 158px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 159px;
+}
+
+.team .michelle-wait-compliance-coordinator-3 {
+  height: 158px;
+  left: 663px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 158px;
+}
+
+.team .candidate-care-manager {
+  height: 27px;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.team .compliance-manager {
+  left: 400px;
+  top: 260px;
+}
+
+.team .compliance-coordinator-1 {
+  height: 27px;
+  left: 675px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.team .overlap-group-container-2 {
+  align-self: flex-start;
+  margin-top: 60px;
+  width: 1160px;
+}
+
+.team .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 895px;
+  min-height: 176px;
+  padding: 16px 37px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .name-9 {
+  height: 27px;
+  margin-top: 83px;
+  min-width: 190px;
+  white-space: nowrap;
+}
+
+.team .payroll-coordinator {
+  align-self: center;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  margin-right: 1.0px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.team .overlap-group11 {
+  height: 302px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1028px;
+}
+
+.team .vector-14 {
+  height: 64px;
+  left: 458px;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.team .name-10 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 214px;
+  width: 345px;
+}
+
+.team .jack-isaac-payroll-coordinator-4 {
+  height: 158px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 158px;
+}
+
+.team .payroll-team-leader {
+  height: 27px;
+  left: 116px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.team .rectangle-62 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 328px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .name-11 {
+  height: 27px;
+  left: 399px;
+  position: absolute;
+  top: 226px;
+  white-space: nowrap;
+}
+
+.team .senior-payroll-coordinator {
+  height: 27px;
+  left: 387px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.team .ellipse-62 {
+  background-color: #9393d1;
+  border-radius: 79px;
+  height: 158px;
+  left: 381px;
+  position: absolute;
+  top: 50px;
+  width: 158px;
+}
+
+.team .rectangle-61 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 610px;
+  position: absolute;
+  top: 126px;
+  width: 265px;
+}
+
+.team .nikisha-james {
+  height: 27px;
+  left: 664px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 226px;
+  white-space: nowrap;
+}
+
+.team .nikisha-james-payroll-coordinator-1 {
+  height: 158px;
+  left: 663px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 158px;
+}
+
+.team .payroll-coordinator-1 {
+  height: 27px;
+  left: 688px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.team .overlap-group6 {
+  height: 314px;
+  margin-right: 17.0px;
+  margin-top: 36px;
+  position: relative;
+  width: 345px;
+}
+
+.team .vector-17 {
+  height: 64px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.team .rectangle-64 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px #a4a4a4;
+  height: 176px;
+  left: 40px;
+  position: absolute;
+  top: 138px;
+  width: 265px;
+}
+
+.team .name-12 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 225px;
+  width: 345px;
+}
+
+.team .jack-hayes-social-me {
+  height: 158px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 158px;
+}
+
+.team .social-media-marketing {
+  height: 27px;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.team .group-131 {
+  align-items: flex-end;
+  display: flex;
+  height: 920px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 2749px;
+}
+
+.team .overlap-group15 {
+  height: 920px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1366px;
+}
+
+.team .rectangle-84 {
+  background-color: var(--white-2);
+  box-shadow: 0px 0px 4px 5px #0000001a;
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.team .overlap-group-1 {
+  height: 329px;
+  left: 110px;
+  position: absolute;
+  top: 30px;
+  width: 1147px;
+}
+
+.team .wood-floor-warehouse-feefo-reviews-1 {
+  height: 329px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1132px;
+}
+
+.team .rectangle-83 {
+  background-color: var(--white-2);
+  height: 47px;
+  left: 912px;
+  position: absolute;
+  top: 282px;
+  width: 235px;
+}
+
+.team .group-126 {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  min-height: 565px;
+  position: absolute;
+  top: 355px;
+  width: 1366px;
+}
+
+.team .overlap-group1-1 {
+  align-items: center;
+  background-image: url(../img/rectangle-71.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1366px;
+}
+
+.team .overlap-group4-1 {
+  height: 505px;
+  position: relative;
+  width: 504px;
+}
+
+.team .x11-9-1 {
+  height: 505px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.team .llantrisant-branch {
+  left: 309px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 195px;
+}
+
+.team .unit-1-2-magden-pa {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  left: 309px;
+  line-height: 24px;
+  position: absolute;
+  top: 217px;
+  width: 179px;
+}
+
+.team .enquiriesnetworkrecruitmentwalescouk {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 32px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-decoration: underline;
+  top: 397px;
+  white-space: nowrap;
+}
+
+.team .email {
+  color: var(--white);
+  font-family: var(--font-family-days_one);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 24px;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 376px;
+  white-space: nowrap;
+}
+
+.team .about-us-team-testim {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  left: 126px;
+  line-height: 24px;
+  position: absolute;
+  top: 218px;
+  width: 211px;
+}
+
+.team .set {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 186px;
+  width: 207px;
+}
+
+.team .flex-col-1 {
+  margin-left: 62px;
+  margin-top: 107.0px;
+  min-height: 240px;
+  width: 261px;
+}
+
+.team .swansea-branch {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 31px;
+  width: 207px;
+}
+
+.team .canolfan-gorseinon-c {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  line-height: 24px;
+  width: 211px;
+}
+
+.team .overlap-group5-1 {
+  height: 52px;
+  margin-top: 37px;
+  position: relative;
+  width: 261px;
+}
+
+.team .partners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.team .mps-healthcare {
+  color: var(--white-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.team .nrw-recruitment {
+  color: var(--white-2);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 24px;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.team .overlap-group3-1 {
+  height: 151px;
+  margin-left: 13px;
+  margin-top: 18.0px;
+  position: relative;
+  width: 211px;
+}
+
+.team .cardiff-branch {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.team .x3rd-floor-castlebrid {
+  color: var(--white-2);
+  font-weight: 500;
+  height: 120px;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 31px;
+  width: 211px;
+}
+
+.team .overlap-group2-1 {
+  align-self: flex-start;
+  height: 504px;
+  margin-left: 3px;
+  position: relative;
+  width: 312px;
+}
+
+.team .x11-10-1 {
+  height: 504px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 274px;
+}
+
+.team .integration-logos_badges-1 {
+  height: 45px;
+  left: 48px;
+  position: absolute;
+  top: 187px;
+  width: 183px;
+}
+
+.team .cant-find-what-your-looking-for {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 252px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.team .overlap-group-2 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 319px;
+  width: 230px;
+}
+
+.team .rectangle-20 {
+  height: 32px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.team .search {
+  color: var(--white-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 24px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.team .frame-345-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 62px;
+  position: absolute;
+  top: 377px;
+}
+
+.team .vector-7 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 29.76px;
+}
+
+.team .group-80 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 24.18px;
+}
+
+.team .g5891 {
+  cursor: pointer;
+  height: 24.18px;
+  position: relative;
+  width: 25.29px;
+}
+
+.team .group-82-1 {
+  cursor: pointer;
+  height: 27.84px;
+  margin-right: -0.01px;
+  position: relative;
+  width: 27.84px;
+}
+
+.team .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 74px;
+  height: 25px;
+  margin-right: 24.88px;
+  min-width: 1147px;
+}
+
+.team .frame-348 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 0.53px;
+  position: relative;
+}
+
+.team .frame-348-item {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.team .copyright-network-re {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 25px;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.team .untitled-design-20-3 {
+  height: 61px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 171px;
+}
+
+.team .sue-davies-payroll-coordinator-1 {
+  height: 158px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 2062px;
+  width: 158px;
+}
+
+.team .teresa-walsh-nrw-compliance-manager-1 {
+  height: 158px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 1698px;
+  width: 158px;
+}
+
+.team .melanie-payroll-coordinator-1 {
+  height: 158px;
+  left: 1028px;
+  object-fit: cover;
+  position: absolute;
+  top: 2063px;
+  width: 158px;
+}
+
+.team .rectangle-81 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 669px;
+  position: absolute;
+  top: 64px;
+  width: 1px;
+}
+
+.team .overlap-group18 {
+  align-items: flex-start;
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  display: flex;
+  margin-left: 55px;
+  margin-top: 680px;
+  min-width: 23px;
+}
+
+.team .ellipse-28 {
+  background-color: var(--primary700-main);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.team .flex-col-2 {
+  gap: 361px;
+  margin-top: 705px;
+  min-height: 396px;
+  width: 696px;
+}
+
+.team .caretakers-container {
+  position: relative;
+}
+
+.team .caretakers {
+  color: var(--black-2);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.team .flex-row-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 25px;
+  min-width: 688px;
+}
+
+.team .ellipse-30 {
+  align-self: flex-end;
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  width: 23px;
+}
+
+.team .overlap-group19 {
+  height: 23px;
+  margin-left: 5px;
+  position: relative;
+  width: 207px;
+}
+
+.team .learning-support-assistant {
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.team .ellipse-31 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.team .additional-learning {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-bottom: 7.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 295px;
+}
+
+.team .ellipse-32 {
+  background-color: var(--white-2);
+  border-radius: 11.5px;
+  height: 23px;
+  margin-left: 21px;
+  width: 23px;
+}
+
+.team .cover-supervisors {
+  align-self: center;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  margin-bottom: 3.0px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.team .caretakers-1 {
+  height: 10px;
+  width: 205px;
+}
+
+.team .compliance {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.team .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.team .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.team .name-13 {
+  letter-spacing: 0;
+  line-height: 26.5px;
+  text-align: center;
+}
+
+.team .overlap-group-container-3 {
+  height: 302px;
+  position: relative;
+}
+
+.team .regional-coordinator-5 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.team .surname-3 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 26.5px;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  white-space: nowrap;
+}
+
+.team .x11 {
+  object-fit: cover;
+  position: absolute;
+}
